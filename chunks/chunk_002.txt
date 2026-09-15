@@ -1,25 +1,24 @@
-More information is available on our website immi.homeaffairs.gov.au/
-change-in-situation/withdraw-visa-application
-Visa duration and travel
-Date of grant 16 March 2026
-Must not arrive after 16 March 2031
-Length of stay Indefinite from the date of each arrival
-Travel Unlimited until 16 March 2031. For more information:
-immi.homeaffairs.gov.au/visas/permanent-resident/
-overseas-travel
-Visa summary
-Name Tianyi YAO
-Date of birth 28 October 2000
-Visa Skilled - Independent (subclass 189)
-Stream Points-tested
-Date of grant 16 March 2026
-Visa grant number 0049542811367
-Passport (or other travel
-document) number
-EJ4779210
-Passport (or other travel
-document) country
-CHINA
-Application ID 1300708809
-Transaction reference number EGPA42A8DQ
-Why keep this notice?
+Thesecond reasonis a complexity reason.Although theinitial purposeof AI-
+assistedtoolsis to effectively helphuman resolveproblemsand achievea
+moretime andcost efficientcourtenvironment, they areexpected tobe
+moreexplainable.5 Thecomplexity of AI-assistedtools is beyondimagination. Explaining theAI decisionitself hasbecomea challenge evenfor the
+technologists.6A technologistmay be able to explainlogicon how algorithms
+work, butcan notexplainwhy AImakethis decision. Concerns on the “black box” problem
+Ifthe providerusescommercialconfidentiality asa shieldto refuse
+providinginternal logicof algorithms, itwill be harder forgovernmentor
+relevantparties to surveilanyAI-assisted tools’s usein the judiciary.WhenAI
+decision is infault,it is questionable whoshould be responsible forthefalse
+decision. Therefore,theaccountability ofthe AI-assistedtools is low. Inaddition, iftrainedtechnologists have difficultiesin explaininghowAI
+made thedecision, it is evenharder foruntrainedjudges to have a
+convincingjudgementbased onAI decision. This may raiseproblems in
+proceduralfairness.7Due tolack of transparency,the parties,especially the
+defendant,has limitedabilityto challenge thevalidity of the evidence,and
+thus,may losetheirchance tohave a equalhearing incourt. 4 Houston Federation of Teachers Local 2415 v Houston Independent School District (2017) 251 F Supp 3d 1168
+(SD Tex), (‘Houston case’). 5 Kai-Ping Su, AI in the Judiciary & Global Policies (PowerPoint Presentation, LAWS 90339 Digital and AI
+Evidence Law in Asia, University of Melbourne, 21 April 2026). 6 Ibid n1, 45. 7 Ibid n 3, 573. Whatis worse, theirchance forappealmay be impaired if theycan not
+understandthe judgmentagainst them, andthe judges, onthe otherhand,
+areunable to explainAIdecision becausethe reasonsabove. Accordingly,the blackboxproblems inAI decision-making arelikely to affect
+thejudicial justice andindividual’s trust to thelegal system.The
+accountabilityof thejudicial systemis challenged; the individual’s rightsto
+theright to proceduralfairness, andrights to appeal areboth facing aserious
+violation dueto non-transparency.

@@ -1,10 +1,40 @@
-More information about the range of services that may be available to you and
-your eligibility to access them, including any waiting periods that apply, is available on the
-Services Australia website www.servicesaustralia.gov.au
-Update us
-You are required to tell us about any other changes to your details as soon as possible. These changes may include your name, passport, contact details, address or family
-members. If you do not notify us of your new details, this can have serious consequences for you. More information: immi.homeaffairs.gov.au/change-in-situation
-Free Translating Service
-You may be eligible to have up to 10 personal documents translated, into English, within
-the first two years of your visa grant date through the Commonwealth Government's Free
-Translating Service.
+Human-centric design can monitor AI bias
+Therule against bias meansthatthe decisionmaker ‘can be objectively
+considered tobe impartial andnotto have pre-judgeddecision’.36Although
+thegoal of usingAI toolsis to achievea moreobjectiveand consistent
+outcomesthanhuman, weshould notneglect the issueoalgorithmicbias
+thatAIsystems mayhave reflected inthe analyticalresults.37
+Theresearch byProPublicindicates thatAIinclines tohave adisparate
+impacton certaingroup of individualsin society.38This suggeststhateven
+theAI toolsis notas objectiveas peoplethink. Infact,the judges hadto
+listen to thewitness testimony,and takenevery relevantfactors into
+considerationto makethe mostjustifiable decision withintheir discretion.39
+As AI is morelikely to have a‘pre-judged’decision due tothe build-inbiases
+inthe algorithms.40 Having ahuman judge making thefinaldecision is an
+effectivewayto ensure AIbias hasminimum impacton the outcomes.The
+COMPASexample alsosuggeststhat itis importantto have the humanjudge
+34 Ibid n 11. 35 Ibid n 1, 45. 36 Ibid n 33. 37 Ibid n 3, 578. 38 Ibid n 13. 39 Ibid n 11. 40 Ibid n 3, 578. to adjustandmonitorthe decision made byAI tomakesure thattheAI bias
+willnotcontinue, and justicewill achieve. Human-centricdesign isnotnecessary
+Itis arguable thathavinghuman-centricdesign in theuseof AI toolsmay
+diminishthe originalpurposes of havingAItools inthe judicial settings. The consistency of AI tools
+Onekeydifferencebetween AIand humanin decisionmaking is thatAI
+hasmore consistencyin making decisions. Humansarecomplicated, their
+ability tomake decisions may beimpacted undervarious factors. Apartfrom
+thecognition level, theaccuracyof people’sdecision making may be
+dampenedif one is fatigue,underpressure, loosing concentration,or being
+ina strong emotional state.41Research shows thatwhen peoplearetried of
+doing repetitivetasks, even thetiming of lunch breaksmay influence the
+judge’s sentencingdecisions.42 AIneverget tirednor haveany human
+emotions.In case of doingrepetitive worksandgiving accurate, consistent
+results, AIdoesa better workthanhumans,and is morecost effective. Therefore,it is notnecessaryto have anhuman-centricdesign in thesekinds
+of judicialsettings. AI tools are more efficient
+AItools havebeenintroduced to useinjudicial settings aimingto raise
+theefficiency of judicial processlike investigations.The spreadingnumber of
+hightech crimes completelychanged the traditionalway toconduct
+investigation.The traditionalwaywould notworkbecause thereis massive
+amountof evidenceinvolved in cybercrime. Nevertheless, collecting, learning,
+andgenerating from datais what AIis good at.Not onlycan AI generates
+accurate resultsusing algorithms,it is morelikely to identifies patternsthat
+humansmight missin massive digitalfiles.43For instance,the cases involving
+Indecent Imageof Children (IIOC) aregrowing rapidly.For thesecases,
+timing is theprimary concern.

@@ -1,11 +1,36 @@
-For more information or to apply for a TFN online, go to the Australian Taxation Office
-website www.ato.gov.au
-Information pack on domestic and family violence, sexual assault
-and forced marriage
-The Australian Government has developed a family safety pack with information on
-Australia’s laws regarding domestic and family violence, sexual assault and forced marriage. The family safety pack also includes important information about essential services and
-emergency contacts in Australia. This information can be found at www.dss.gov.au/
-familysafetypack - 3 -
-Character requirements
-Entering or remaining in Australia is a privilege. You must obey the law and not engage in
-criminal activity.
+Conclusion
+Theconcern of AI-assistedtools usedin judiciary raised from theprocedural
+powerimbalancecaused byalgorithm opacity,alsoknownas theblack box
+problem.Algorithmsopacity notonly deprive partiesfromtheirright to know
+andright to debate,but alsocovers itup byembedding biasesinto histocial
+data. Itis essentialto realisethe hazardof black boxand theAI bias inthe
+judiciary,and alwaysputhuman rights firstwhen usingAI-assisted tools. 28 LOZNEANU, Eduard-George et al, ‘The Use of Artificial Intelligence in Justice and Some Aspects Regarding
+the Respect for Fundamental Rights and Freedoms’ (2026) Juridical Tribune - Review of Comparative &
+International Law 16(1) 91, 98. Question 2A:
+Introduction
+Theworld as wellas thelegal systems worldwideis all facing the same
+transformationfrom “digitalera”to “intellectual era”. The useofartificial
+intelligence(AI) inthe legal fieldis considered tobe awidespread
+phenomenon with anunexpected,revolutionary effect on thetraditional
+judicial systems. Nowadays,the useof AI toolsinjudicial settings itself is no longernews. The
+noveltylies in,on whatextent should human andAI toolscooperatein
+judicial settings.Therefore, itis necessaryto have a discussionon whatrole
+humansshould play in thisintellectualera. Inthisarticle, the discussion will
+lies on whetherit is necessary tohave ahuman-centric designin judicial
+settings.Fromone side, human-centricdesign may be beneficialfor
+increasingpeople’s confidencein legal systems,and have morefaithin
+achieving justoutcomes.Fromthe otherside, human-centricdesign may
+underminetheefficiency of AItools, whichis the primary aimsofintroducing
+AItools intolegal systems. WhatisHuman-centric design
+Human-centricdesign inthisarticle meansthatthe developof any AI
+systemsshould alwaysmaintain accountabilityandtransparency, and retain
+human’s ability as independentdecision-makers.Rather thanreplacing
+judges entirely, ahuman-centricapproach aims to ensurethatAI remains a
+toolthatsupports, rather thancontrols judicial decision-making. Human-centricdesign isnecessary
+Some believethat nomatter how AIandalgorithms developed,human-
+centricdesign is still necessary inthe useof AI toolsin judicial settings.The
+reasonsto supporthuman-centricdesign arelisted below. Human is always the core in legal systems Thelegal systems aredesigned forpeople tohave away to achieve
+justice,which meansthathuman is thecore of theentire legal system. AI
+may beable to findpatterns fromanalysingand generating data,and give
+themost reasonable statisticsresultsbased on algorithms,buthumansare
+notalwaysa detectabledata.

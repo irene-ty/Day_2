@@ -1,9 +1,41 @@
-● Employers and other government agencies might ask for details in this notice so they
-can carry out checks using VEVO. - 2 -
-● To access your visa record in VEVO. Australian working conditions
-Workplace rights
-Pay rates and workplace conditions are set by Australian law. All people working in Australia,
-including those from overseas, have rights and protections at work. These cannot be taken
-away by contracts or agreements. If you have questions about your pay and conditions while in Australia, you can contact the
-Fair Work Ombudsman for free information, resources and advice. Visit www.fairwork.gov.au for information for visa holders and international students. This
-includes information in 41 languages.
+AIBias
+Definition of AI bias
+AIbias meansthatAI generatesunfair outcomes whenfacing different
+groupsof people.8Although theaim to have AIassisted toolsis toremove
+humanfatigue andemotion bias from decision,people thenfindoutthat AI
+biases maybe more severeanduncontrollablethanhuman biases, andhave
+adisparate impacton certain individualsof thesociety.9
+For example,the Correctional OffenderManagementProfiling forAlternative
+Sanctions(COMPAS)system introducedbythe UnitedStates is used tohelp
+judges making decisions onsentencing bypredicting people’srisks ofre-
+offendingfrom1-10.10With 1being the less likely tore-offend, and10 being
+themost likely, judges areexpected to givesentencing basedon COMPAS
+suggestions.11 Thepurpose of usingthissystemis to alleviate human biases
+whenmaking preventive measures.12However, the systemlaterproved less
+trustworthy,asit showsclear biases andrating tendencyagainst certain
+groupof people. Statisticshows thatthe accuracyof COMPASprediction on
+offender’srecidivisim onlyhas 61% ofcorrectness, andthe correction rate
+droppedto 20% whenitcomes to violentrecidivism.13Statistic alsoindicates
+thatblackdefendants were77% morelikely to be marked ashigh risk
+8 Ibid n 5. 9 Ibid n 5. 10 Ibid n 5. 11 Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ‘Machine Bias: There’s Software Used across the
+Country to Predict Future Criminals. And It’s Biased against Blacks’ ProPublica (Web Page, 23 May
+2016) <https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing>. 12 Ibid n 3, 575. 13 Jeff Larson et al, ‘How We Analyzed the COMPAS Recidivism Algorithm’ ProPublica (Web Page, 23 May
+2016) <https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm>. offenders thanwhitedefendants, even after thefactors thatmay impact the
+algorithms,like priorcrimes, futurerecidivism,age, andgender, have been
+eliminated.14
+BrowardCountyJudge JohnHurley said thatasan experiencedjudge, he
+hasn’t reliedon theCOMPAS in yearsbecausehe preferedhis own
+judgment.15Even the developerof theCOMPAS admittedthatsolelybased
+on COMPAS evidence forsentencing decision isnot agood idea.16 Therefore,
+itis crucialfor peopleto realisethe limitationand biased natureof any
+algorithms. Reasons for AI biases
+AIis equally vulnerableto biasesas humansdo. Thealgorithms
+determinedthatanygenerative AIsystem is trainedbasedon large language
+modules.Therefore,LegalAI systems aretrainedbased on pastlegal
+documents,court judgments,and judicialcommentary,which arenot free
+fromhistorical biases.17Thesebiases, andall thetraining data, are
+embeddedwithin thecore of anylegal AI systems.The COMPASexample
+suggeststhatit is almostimpossible forhumans nowto eliminate AIbiases
+fromthe underlying codeof AI algorithms.Themore biased informationAI
+studies,the more biased itbecomes, andthe AIgenerative knowledge is
+morelikely to be biased.

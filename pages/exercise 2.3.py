@@ -1,6 +1,5 @@
 import math
 from pathlib import Path
-
 import streamlit as st
 from dotenv import load_dotenv
 from openai import OpenAI

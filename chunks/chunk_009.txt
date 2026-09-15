@@ -1,6 +1,34 @@
-More information: translating.homeaffairs.gov.au
-Free English language tuition
-The Commonwealth Government provides free English language tuition to eligible visa
-holders through the Adult Migrant English Program (AMEP). You must register for the
-program within six months of your visa commencement date or the date you arrive in
-Australia.
+Besidestheincreasing pressure onlaw
+41 Professor Mirko Bagaric and Maya Arguello Gomez, ‘The Misalignment between Sentencing and
+Artificial Intelligence’ (2025) 99 Australian Law Journal 459, 472. 42 Ibid n 41. 43 Ibid n 5. enforcement,these cases needto bedeal with greatcaution andcare
+becauseany delayin discoveringIIOC imagesmay underminethe chanceto
+conviction.44Another challenge inIIOC investigation is thatitmay involves
+highquantities ofdisturbingimages, which traditionally requirehuman
+investigatorsto examine.45Manually examiningthese imagesareboth time-
+consumingand detrimental toinvestigator’swelfare.46 Forthis reason,having
+ahuman-centricdesign will only addsburdenon investigation process. Another waytoincrease efficiency in judicialsettings is to useAItools to
+managecase files.For example,Korea judicial pilotinghas introducedatrial-
+supportartificialintelligencesystem forjudges to useforsearching legal
+informationand assistingtrials.47This AI system’s data base includesallthe
+courtsjudgments,rules, legislation, authoritativeinterpretation,etc. Whenthe
+systemhasbeenasked aboutageneral legal question, ora particularlegal
+issuein acase, it willproduceananswer attaching areferencelistof all the
+relevantprecedents, statutes,andliterature theanswer is based on.48The AI
+systemspeeds trialsand summarisingsentencing. Itis confidentto say that
+thetrial-support AIsystemperforms moreefficient thanhuman incase
+management,human-centricdesign seems tobe unnecessary. AI tools are more convinent
+Itis timeand costconsuming ifhuman judges have to givereasonson
+everycourtdecision. As forsimplecases, it is moreconvenient ifthe parties
+canuselegal AItools like“robot judge”to resolvetheirproblems,and human
+judges only responsibleforreviewing the AIdecision. InEstonia,for example,
+thereis the “robotjudge”project aimingto automaterulingon smalldisputes
+with a claim amount less than 7,000 euro.49 According to Simmler etal.(2023),
+theaccuracy ofthe AIsystem can reachup to 85%.50Robot judge is a legal
+44 Simon Parkinson and Saad Khan, ‘The role of Artificial Intelligence in digital forensics: Case studies and future
+directions’ (2024)16 Assessment & Development Matters 42, 43. 45 Ibid n 44, 44. 46 Ibid n 44. 47 Park Yong-sun, ‘South Korea briefs AI startups, outlines law response and support plans’ ChosunBiz (Web Page,
+23 May 2016) <https://biz.chosun.com/en/en-industry/2026/01/28/FDVUYGCQDVDH3B5RBTKBKTKVTA/>. 48 Ibid n 47. 49 Ibid n 3, 576. 50 Monika Simmler, ‘Smart Criminal Justice: Exploring the Use of Algorithms in the Swiss Criminal Justice
+System’ (2023) 31 Artificial Intelligence and Law 213. AIsystem thatis designed tobe less human-centric, asit savestime and
+costless. WhyIbelieve ahuman-centric designis stillnecessary
+Firstof all,I believe thatwith therapid developmentof AI, aportionof the
+workof legal professionalswilleventually be replaced byAI.Just aswas
+mentionedearlier inthe article, AIhasno emotions.

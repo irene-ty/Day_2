@@ -1,9 +1,37 @@
-You can calculate your correct pay and entitlements using the Pay and
-Conditions Tool at www.fairwork.gov.au/pay
-More information on employment in Australia is available on our
-website immi.homeaffairs.gov.au/visas/working-in-australia/work-rights-and-exploitation/
-work-restrictions and on the website of the Department of Employment and Workplace
-Relations www.dewr.gov.au
-Tax file number
-To receive an income in Australia, you need a Tax File Number (TFN). Income includes
-wages or salary from a job, government payments and income from investments.
+What is more,thealgorithms opacity furtheraddressedthe issueof
+“automation bias”,which is a tendencyof decision-makers relyingon AI-
+generated resultsdisproportionately.25
+AlthoughJudge Bable reducedthe sentenceafterhearing otherwitnesses’s
+testify,headmittedthathewouldgive aeven lightersentence ifit wasnot for
+theCOMPAS.26The judge’s sentencingdecision was reasonableunder
+legislation,butthe scope of judge discretion wasundermined byAIbias in a
+unperceivedway. InHouston case,the courtfound thatproceduralfairness
+wasnot achieved.27 Theteachers tried tochallenge the contracttermination
+decision, whichis made based on aAI generatedperformance scoring
+systems.However,the AI systemproviderrefused to revealinformation
+regardingthe system.Due tolack of sufficientinformation,the teachers lost
+theircase.If thedefendant can notaccess the algorithms,andthus,have
+littleinformationto challenge theAI system,the adversarial processhasbeen
+structurallycompromised regardlessof whether the judge purportedto
+exercise independentdiscretion. The “black box” and AI bias are jeopardizing judicial justice
+Asmentioned before,a majorconcern of theblack boxproblem isthatit
+hasapotential threatto procuduralfairness. AIbias, on the otherhand, may
+impair thejustness ofthe outcomes. AI-assistedtools areable to usealgorithmsto detect, analyse, andgenerates
+statisticspatterns,butit is hardfor themto think like ahuman.Humanscan
+perceivemore humanemotions, andhave a better understandingon the
+complexsocioculturalcontexts and personal backgrounds of eachindividual. Itis the understandingthatmatters fora fairtrial. For theAI systemsor algorthims,humansand theirbehaviours arelearning
+subjects andmeasurablefactors, which theyused togenerates results. IfAI
+systemsmakemistake, theylearnfromit anddeveloped theiralgorithms
+accourdingly. Butforhumans,each AIbias could leadto anunbearable
+25 Ibid n 21, 167. 26 Ibid n 11. 27 Ibid n 1. resultforindividual. AIdoes nothave feelings, buthumandoes. Black box
+problemin algorithmsshould notbe the excusefordisregardingAI bias. Besidesfromthe obvious impactthatwediscussed above, thetrue lethal
+impactof algorithms opacityis thatit subtly,buteffectively changed the
+powerdynamic amongjudges andboth parties.For example,when the
+judge relies on AIsystemssuch asCOMPAS formaking judgments,the
+defendants havelittle powertoseekfor reliefbecause thereasoning forthe
+judgmentis veiled. The asymmetryinthe power dynamicwouldaffect the
+fairness ofthe trial,and severelyimpair the adversarial principle.28In this
+situation,the combinationof opacity andbias notonly hasthe potential to
+lead toindividualinjustice ,butit can alsomakethisdecision-making
+approach immunefromthe surveillance thatlegal systemrelies on, thereby
+making bias normalised.

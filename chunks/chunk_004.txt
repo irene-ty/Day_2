@@ -1,9 +1,36 @@
-You can also contact the Fair Work Ombudsman by phone within Australia on 13 13 94
-(Translating and Interpreting Service 13 14 50). Pay
-Your minimum pay rate can come from an award, enterprise agreement or other registered
-agreement, or the national minimum wage. Employees have to be paid the right pay rate for
-all hours they work including training, team meetings, opening and closing the business and
-doing a trial shift. National minimum wage
-Certain employees may have different pay entitlements depending on whether they have a
-reduced work capacity because of disability, if they are under the age of 21 or if they are an
-apprentice or trainee.
+Insteadof reducing inequalities,thebiases
+embeddedwithin AIsystems mayscale upand enhancethem.18
+Therelation between the“black box”and AIbias
+Theblack boxproblem,alsoknownas algorithmicopacity,is closely related
+to AIbias in thefollowing threeperspectives. Algorithmic opacity as a structural enabler of bias
+Therelationship betweenthe"black box" problemandAI bias is not
+merely correlational— it is structural. AIsystemsare biased becausethey
+learnedandgenerates informationfrom the pastbiased materials.Because
+14 Ibid n 13. 15 Ibid n 11. 16 Ibid n 11. 17 Sukanth Korkanti, ‘Detecting Bias in Legal Language Models through Data Analytics’ (Conference Paper, 2nd
+International Conference on Self Sustainable Artificial Intelligence Systems 23-25 October 2024). 18 Ibid n 17 AIsystems aretrainedon historically biased legal data, theydo nothave a
+wayto be examinedor corrected,which meansanyembedded bias will
+continueintheiralgorithms. Therefore,it is highlyforeseeablethatsuch AI
+biases mightthenemerge in otherpredictive tools,riskassessmenttools, or
+evenAI-assisted tools inthe judiciary.19
+Whena biasedsentencing outcome,takeJudge Bableasanexample, was
+made undertheinfluence of the biasedrisk assessmentalgorithms,the
+biased outcomecontinuesto be absorbedinto futuretrainingdatabase.20
+Theopacity of thealgorithms ensure thatthebias continuesto be
+undetected,and disadvantagedcertaingroups of people.Thereis a great
+chance thatAIcould eventually amplifythe inequalitiesand biases that
+alreadyexist in the society.21
+The opacity barrier to proof and challenge
+In an adversarial system, ensuing both parties can have opportunities to
+examine and contest evidence against their interests is an important way to
+achieve justice. The opacity of the algorithms undermines parties’ chances to
+do so. In traditional trials, the judges’s reasoning is expressed in writing,
+which can be read, examined, and questioned.22 The AI decision, on the
+other hand, can not produce a believing thinking pathway for parties to
+examine.23 The damage on adversarial system is particularly hazard when AI
+bias reveals a racially disparate outcomes. A ProPublica’s research suggests
+that the opacity of algorithms burdens parties from learning how biases were
+generated, or which factors drove to the result, or whether their individual
+circumstances have been evaluated fairly.24 The defendant has limited power
+nor information to challenge the AI decision, which is a sever impairment of
+individual'srights, and adiminishon the justiceof adversarial system. 19 Ibid n 17. 20 Ibid n 11. 21 Anca Florina Moroșteș, ‘ARTIFICIAL INTELLIGENCE IN FORENSIC INVESTIGATIONS. DOCTRINAL
+GAPS, FUNDAMENTAL RIGHTS AND THE RULE OF LAW’ (2025) 36(50) Journal of Legal Studies 164, 172. 22 Ibid n 21. 23 Ibid n 21. 24 Ibid n 11.

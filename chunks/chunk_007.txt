@@ -1,8 +1,35 @@
-Your visa may be cancelled for a number of reasons, including if you have a substantial
-criminal record or behave in a way that is a risk to somebody in the Australian community. More information: immi.homeaffairs.gov.au/help-support/meeting-our-requirements/character
-Your entitlements to government services
-You may be able to access a range of services offered by the Australian Government
-such as payments and benefits, job matching, Medicare and short-term counselling for
-torture or trauma where required. Services Australia delivers a range of welfare and health-
-related payments and services. You may have to wait before you can access most welfare
-payments.
+Humansare complicated,changeable,and
+unique.Therefore, whenit comes tointerpretingthe complexity of one’s
+socioculturalbackground, AIis more limitedandbiased thanpeople
+realised.29For example,the COMPASsystem usedin theUS can predict
+one’s riskson recidivism.Based on thehigh riskprediction resultonviolent
+recidivism,Judge Bablegave the defendanta sentenceof twoyears
+imprisonment.30However, the defendant arguedthat thesystemdid nottake
+intoaccount all the changeshehas madeforhis life,including hisconversion
+to Christianity,hisstruggles onquittingdrugs, andeffort hemade to rebuild
+relationshipwith his son.31Theseare thefactors algorithms cannot detect,
+asthey areprivate andindividualbased. Thedefendant than calledthe
+creatorof thissystem asawitness to testifyincourt, provingthat thesystem
+cannotbe the solesupporting evidence onsentencing decision.32 Each
+judicial judgmentcould be life-changing foran individual,and AIdoes not
+understandthat. Ifwithout ahuman-centric design,there is ariskthatAI will
+eventually diminishthe valueof individuals, and generatehuman asa cold,
+feeling-less data,which is the least wewantin justice. Human-centric design is essential in achieving justice
+Thereare somecore designs in judicialprocesses that human
+involvement cannot be replacedbyAI tools. First, human-centricdesign is necessaryin achieving proceduralfairness. Procedural fairnessincludesthe fair hearingrule,which meansthe parties
+shouldbe given opportunities to hearfromthe decision makeraboutthe
+decision thatwouldaffect theirinterests.33
+29 Ibid n 1, 578. 30 Ibid n 11. 31 Ibid n 11. 32 Ibid n 11. 33 ‘Procedural Fairness: The Duty and Its Content’ Australian Law Reform Commission (Web
+Page) <https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-
+laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content>. Overly rely onAI toolsmay impair the fairhearingrule. Oneof themost
+significantconcerns aboutAI toolsis its opacityin algorithms,andits effect
+onfair hearing rule.People have noaccess to thealgorithms dueto
+commercialor intellectualconfidentiality, thus, partiesare deprivedthe
+opportunities to hear from the judges about the reasons behind the decisions. TakeCOMPAS systemas anexample.Thedefendants do nothave chance
+to hearfrom thejudges abouthowthey made thatdecision, orwhat factors
+havethey takeninto considerations.34 This is becausedueto algorithms
+opacity,even thejudges can notexplainto peoplewhythe algorithmsAI
+toolsusedgenerates thisresults.35 Iftheparties do nothave achance to
+learnaboutthe decisions thataffect theirinterests,theirright tohave a fair
+hearingwillbe impaired.Therefore,it is importantto remainhuman-centric
+design inthe decision making processin orderto have afair hearing.
